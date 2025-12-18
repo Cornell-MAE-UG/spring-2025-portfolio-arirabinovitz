@@ -6,7 +6,7 @@ title: Ari Rabinovitz
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.png" | relative_url }}){: class="profile-image"}
 
  My name is Ari Rabinovitz, and I am a Mechanical Engineering at Cornell University.
 I am passionate about exploring space further, and plan to receive a Master's of Science in Aerospace
